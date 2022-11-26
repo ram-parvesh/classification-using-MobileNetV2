@@ -1,7 +1,0 @@
-images
-__pycache__
-.gitignore
-*.ckpt
-*.pkl
-samples
-.ipynb_checkpoints
