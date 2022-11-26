@@ -19,15 +19,21 @@ git clone https://github.com/ram-parvesh/classification-using-MobileNetV2.git
 2. create conda environment using command
 <br>
 create env -n mobileNetV2 python=3.7
+
 # Required libraries
 <br>
 Python 3.7
 <br>
 numpy 1.21.6
+<br>
 scikit-image 0.19.3
+<br>
 python-opencv PIL 5.2.0
+<br>
 PyTorch 0.4.0
+<br>
 torchvision 0.13.1
+<br>
 glob
 
 # install dependencies using command
