@@ -16,9 +16,11 @@ This is Pytorch implementation og MobileNetV2 architectue with dafault width = 1
 git clone https://github.com/ram-parvesh/classification-using-MobileNetV2.git
 
 ## Requirements
-2. create conda environment using command
+2. create conda environment using command 
 <br>
 create env -n mobileNetV2 python=3.7
+<br>
+conda activate mobileNetV2 ## <-- activate environment using command
 
 # Required libraries
 <br>
