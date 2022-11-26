@@ -45,6 +45,7 @@ glob
 4. Cd to the directory 'classification-using-MobileNetV2',run the train or inference process by command: python train.py or python test.py respectively.
 
 <br>
+
 [Training Notebook](https://github.com/ram-parvesh/classification-using-MobileNetV2/blob/master/train.ipynb)
 <br>
 
