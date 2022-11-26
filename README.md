@@ -12,13 +12,17 @@ This is Pytorch implementation og MobileNetV2 architectue with dafault width = 1
 
 ## usage for this classification
 1. Clone this repo to local
+<br>
 git clone https://github.com/ram-parvesh/classification-using-MobileNetV2.git
 
 ## Requirements
 2. create conda environment using command
+<br>
 create env -n mobileNetV2 python=3.7
 # Required libraries
+<br>
 Python 3.7
+<br>
 numpy 1.21.6
 scikit-image 0.19.3
 python-opencv PIL 5.2.0
