@@ -3,8 +3,7 @@
 using custom datasets.
 ------
 
-## 1. Intro
-PyTorch Implemention of MobileNet V2
+## 1. PyTorch Implemention of MobileNet V2
 
 Reproduction of MobileNet V2 architecture as described in MobileNetV2: Inverted Residuals and Linear Bottlenecks by Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov and Liang-Chieh Chen on ILSVRC2012 benchmark with PyTorch framework.
 
